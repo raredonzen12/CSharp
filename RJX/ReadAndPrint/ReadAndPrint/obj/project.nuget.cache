@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GQLYT7tst0SAnsIMEg2Q3qP3+CIztUk4qNEgcRZdtttL50RfndrESxfCQuvgoVMv/V9Ti0X0+bpAig3Xtr1Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\RJX\\ReadAndPrint\\ReadAndPrint\\ReadAndPrint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
