@@ -1,0 +1,56 @@
+{
+  "company": {
+    "employee": [
+      {
+        "name": "John Doe",
+        "position": "Manager",
+        "department": "Sales"
+      },
+      {
+        "name": "Jane Doe",
+        "position": "Developer",
+        "department": "IT"
+      },
+      {
+        "name": "John Smith",
+        "position": "Assistant Manager",
+        "department": "Sales"
+      },
+      {
+        "name": "Jane Smith",
+        "position": "QA Engineer",
+        "department": "IT"
+      },
+      {
+        "name": "Bob Johnson",
+        "position": "Sales Representative",
+        "department": "Sales"
+      },
+      {
+        "name": "Alice Johnson",
+        "position": "Web Designer",
+        "department": "Marketing"
+      },
+      {
+        "name": "Michael Davis",
+        "position": "Product Manager",
+        "department": "Marketing"
+      },
+      {
+        "name": "Emily Davis",
+        "position": "Software Engineer",
+        "department": "IT"
+      },
+      {
+        "name": "David Brown",
+        "position": "Marketing Manager",
+        "department": "Marketing"
+      },
+      {
+        "name": "Sarah Brown",
+        "position": "Data Analyst",
+        "department": "Data"
+      }
+    ]
+  }
+}

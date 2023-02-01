@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <employee>
+    <name>John Doe</name>
+    <position>Manager</position>
+    <department>Sales</department>
+  </employee>
+  <employee>
+    <name>Jane Doe</name>
+    <position>Developer</position>
+    <department>IT</department>
+  </employee>
+  <employee>
+    <name>John Smith</name>
+    <position>Assistant Manager</position>
+    <department>Sales</department>
+  </employee>
+  <employee>
+    <name>Jane Smith</name>
+    <position>QA Engineer</position>
+    <department>IT</department>
+  </employee>
+  <employee>
+    <name>Bob Johnson</name>
+    <position>Sales Representative</position>
+    <department>Sales</department>
+  </employee>
+  <employee>
+    <name>Alice Johnson</name>
+    <position>Web Designer</position>
+    <department>Marketing</department>
+  </employee>
+  <employee>
+    <name>Michael Davis</name>
+    <position>Product Manager</position>
+    <department>Marketing</department>
+  </employee>
+  <employee>
+    <name>Emily Davis</name>
+    <position>Software Engineer</position>
+    <department>IT</department>
+  </employee>
+  <employee>
+    <name>David Brown</name>
+    <position>Marketing Manager</position>
+    <department>Marketing</department>
+  </employee>
+  <employee>
+    <name>Sarah Brown</name>
+    <position>Data Analyst</position>
+    <department>Data</department>
+  </employee>
+</company>
