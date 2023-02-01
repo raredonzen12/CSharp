@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP7EIzZaq4cJafObgU1J6bs/G973MzoIUgoAK9dp7CtggPWmFm88a/4UxbuAr0u0GLiLOz+wzXFYmSI4oPMcdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\readJsonAndXml\\ReadJSONAndXMLFiles\\ReadJSONAndXMLFiles\\ReadJSONAndXMLFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
