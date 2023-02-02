@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp/lT+dcKnbw8ZwifOuDAB4FDqQXRxiYqKmQVHG6lfa5uhzUnLFdzqncVL1eWGhlOvCpwlJfgez6ADK65BAG5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ReadJSONorXML\\ReadJSONorXML\\ReadJSONorXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
